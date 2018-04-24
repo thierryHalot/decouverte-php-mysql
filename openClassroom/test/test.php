@@ -14,7 +14,7 @@ puis renvoyer au client avec uniquement du code html/css,
 
 <body>
 
-<h2>Affichage de texte avec PHP</h2>
+<h2>Affichage de texte avec PHP qui sera executer en premier </h2>
 
 
 
