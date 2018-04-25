@@ -74,7 +74,7 @@ echo "<p>la fonction array_key_exist permet de savoir si une clé exist ou non d
 
 
 // si la clé exist alors on execute le code
-if (array_key_exists('pays',$coordonnees)){
+if (array_key_exists('toto',$coordonnees)){
 
     echo 'la clé "nom" se trouve dans les coordonnées !'; //renvoi true
 
@@ -89,7 +89,7 @@ echo "<p>la fonction in_array permet de savoir si une valeur existe ou non, dans
 
 
 //si la valeur existe alors on execute le code
-if(in_array('François',$coordonnees)){
+if(in_array('françois',$coordonnees)){
 
 
     echo "françois est dans mon tableaux de coordonné "; //renvoie true

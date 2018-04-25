@@ -12,19 +12,7 @@
 
 <!--Le menu -->
 
-<nav id="menus">
-    <div class="element_menus">
-
-        <h3>Titre menu</h3>
-        <ul>
-            <li><a href="page1.html">Lien</a> </li>
-            <li><a href="page2.html">Lien</a></li>
-            <li><a href="page3.html">Lien</a></li>
-        </ul>
-    </div>
-
-</nav>
-
+<?php include("menus.php"); ?>
 
 <!--Le corps -->
 
